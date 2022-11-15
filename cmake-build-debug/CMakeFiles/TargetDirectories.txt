@@ -1,0 +1,4 @@
+D:/Users/19765/Documents/C++Project/SpeechCompetitionFlow/cmake-build-debug/CMakeFiles/SpeechCompetitionFlow.dir
+D:/Users/19765/Documents/C++Project/SpeechCompetitionFlow/cmake-build-debug/CMakeFiles/test.dir
+D:/Users/19765/Documents/C++Project/SpeechCompetitionFlow/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/19765/Documents/C++Project/SpeechCompetitionFlow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
